@@ -1,0 +1,50 @@
+D:\Курсач САОД\СourseWorkDPSA\СourseWorkDPSA\bin\Debug\СourseWorkDPSA.exe.config
+D:\Курсач САОД\СourseWorkDPSA\СourseWorkDPSA\bin\Debug\СourseWorkDPSA.exe
+D:\Курсач САОД\СourseWorkDPSA\СourseWorkDPSA\bin\Debug\СourseWorkDPSA.pdb
+D:\Курсач САОД\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.csprojAssemblyReference.cache
+D:\Курсач САОД\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.Form1.resources
+D:\Курсач САОД\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.Properties.Resources.resources
+D:\Курсач САОД\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.csproj.GenerateResource.cache
+D:\Курсач САОД\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.csproj.CoreCompileInputs.cache
+D:\Курсач САОД\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.exe
+D:\Курсач САОД\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.pdb
+D:\2 курс\курсач1\СourseWorkDPSA\СourseWorkDPSA\bin\Debug\СourseWorkDPSA.exe.config
+D:\2 курс\курсач1\СourseWorkDPSA\СourseWorkDPSA\bin\Debug\СourseWorkDPSA.exe
+D:\2 курс\курсач1\СourseWorkDPSA\СourseWorkDPSA\bin\Debug\СourseWorkDPSA.pdb
+D:\2 курс\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.csprojAssemblyReference.cache
+D:\2 курс\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.Properties.Resources.resources
+D:\2 курс\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.csproj.GenerateResource.cache
+D:\2 курс\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.csproj.CoreCompileInputs.cache
+D:\2 курс\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.exe
+D:\2 курс\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.pdb
+D:\2 курс\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\Cursac.Form1.resources
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\курсач1\СourseWorkDPSA\СourseWorkDPSA\bin\Debug\СourseWorkDPSA.exe.config
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\курсач1\СourseWorkDPSA\СourseWorkDPSA\bin\Debug\СourseWorkDPSA.exe
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\курсач1\СourseWorkDPSA\СourseWorkDPSA\bin\Debug\СourseWorkDPSA.pdb
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\Cursac.Form1.resources
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.Properties.Resources.resources
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.exe
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.pdb
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\параппам\СourseWorkDPSA\СourseWorkDPSA\bin\Debug\СourseWorkDPSA.exe.config
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\параппам\СourseWorkDPSA\СourseWorkDPSA\bin\Debug\СourseWorkDPSA.exe
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\параппам\СourseWorkDPSA\СourseWorkDPSA\bin\Debug\СourseWorkDPSA.pdb
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\параппам\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\параппам\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\Cursac.Form1.resources
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\параппам\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.Properties.Resources.resources
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\параппам\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\параппам\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\параппам\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.exe
+C:\Users\user\Desktop\Учёба\Семестр 3\Курсовая работа с++\параппам\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.pdb
+C:\Users\user\Desktop\study\Семестр 3\Курсовая работа с#\курсач1\СourseWorkDPSA\СourseWorkDPSA\bin\Debug\СourseWorkDPSA.exe.config
+C:\Users\user\Desktop\study\Семестр 3\Курсовая работа с#\курсач1\СourseWorkDPSA\СourseWorkDPSA\bin\Debug\СourseWorkDPSA.exe
+C:\Users\user\Desktop\study\Семестр 3\Курсовая работа с#\курсач1\СourseWorkDPSA\СourseWorkDPSA\bin\Debug\СourseWorkDPSA.pdb
+C:\Users\user\Desktop\study\Семестр 3\Курсовая работа с#\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\study\Семестр 3\Курсовая работа с#\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\Cursac.Form1.resources
+C:\Users\user\Desktop\study\Семестр 3\Курсовая работа с#\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.Properties.Resources.resources
+C:\Users\user\Desktop\study\Семестр 3\Курсовая работа с#\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.csproj.GenerateResource.cache
+C:\Users\user\Desktop\study\Семестр 3\Курсовая работа с#\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\study\Семестр 3\Курсовая работа с#\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.exe
+C:\Users\user\Desktop\study\Семестр 3\Курсовая работа с#\курсач1\СourseWorkDPSA\СourseWorkDPSA\obj\Debug\СourseWorkDPSA.pdb
